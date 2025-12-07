@@ -52,11 +52,11 @@ A camada de interação.
 - [x] Tabuleiro e Impressão no Console
 - [x] Movimentos Básicos de Peças
 - [ ] Validação de Movimentos Possíveis
-- [ ] Lógica de Xeque e Xeque-Mate
-- [ ] Movimentos Especiais:
-    - [ ] Roque (Castling)
-    - [ ] En Passant
-    - [ ] Promoção de Peão
+- [x] Lógica de Xeque e Xeque-Mate
+- [x] Movimentos Especiais:
+    - [x] Roque (Castling)
+    - [x] En Passant
+    - [x] Promoção de Peão
 
 ---
 
