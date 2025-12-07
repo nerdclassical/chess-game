@@ -51,7 +51,7 @@ A camada de interação.
 
 - [x] Tabuleiro e Impressão no Console
 - [x] Movimentos Básicos de Peças
-- [ ] Validação de Movimentos Possíveis
+- [x] Validação de Movimentos Possíveis
 - [x] Lógica de Xeque e Xeque-Mate
 - [x] Movimentos Especiais:
     - [x] Roque (Castling)
@@ -80,4 +80,4 @@ Certifique-se de ter o [Java JDK](https://www.oracle.com/java/technologies/downl
 
 1. **Clone o repositório:**
    ```bash
-   git clone [https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git](https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git)
+   https://github.com/Seu uusuario/chess-game.git
